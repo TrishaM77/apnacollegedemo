@@ -1,3 +1,3 @@
 # apnacollegedemo
 this is my first repository
-Authir-Trisha Mathur
+Author-Trisha Mathur
