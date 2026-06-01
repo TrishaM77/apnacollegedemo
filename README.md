@@ -1,4 +1,4 @@
 # apnacollegedemo
 this is my first repository
 <br>
-Author-Trisha Mathur
+Author-Trisha (Kim)
